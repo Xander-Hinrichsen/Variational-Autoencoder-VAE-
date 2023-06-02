@@ -1,0 +1,43 @@
+{
+    "os": "Windows-10-10.0.22000-SP0",
+    "python": "3.10.9",
+    "heartbeatAt": "2023-06-02T04:57:10.230868",
+    "startedAt": "2023-06-02T04:57:09.773489",
+    "docker": null,
+    "cuda": null,
+    "args": null,
+    "state": "running",
+    "program": "<python with no main file>",
+    "host": "Xander",
+    "username": "xande",
+    "executable": "c:\\Users\\xande\\anaconda3\\python.exe",
+    "cpu_count": 4,
+    "cpu_count_logical": 8,
+    "cpu_freq": {
+        "current": 4001.0,
+        "min": 0.0,
+        "max": 4001.0
+    },
+    "cpu_freq_per_core": [
+        {
+            "current": 4001.0,
+            "min": 0.0,
+            "max": 4001.0
+        }
+    ],
+    "disk": {
+        "total": 930.8710899353027,
+        "used": 749.4487113952637
+    },
+    "gpu": "NVIDIA GeForce RTX 4090",
+    "gpu_count": 1,
+    "gpu_devices": [
+        {
+            "name": "NVIDIA GeForce RTX 4090",
+            "memory_total": 25757220864
+        }
+    ],
+    "memory": {
+        "total": 31.950225830078125
+    }
+}
